@@ -201,3 +201,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local settings and editor files
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+.migration-backup/
+__pycache__/
+*.py[cod]
